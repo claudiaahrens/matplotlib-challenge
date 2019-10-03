@@ -1,0 +1,3 @@
+Based on the data for the four analyzed treatments, it appears that Capomulin was the most effective based on decreased tumor volume, slowed the advancement of the number of metastatic sites, and accounted for the lowest death rate among mice.  
+Furthermore, Capomulin has the lowest standard error for Metastatic Sites Changes Over Time which indicates Capomulin's has stronger accuracy of the sample mean as compared with the population mean. However, Capomulin did not have the lowest standard error for Tumor Volume Changes Over Time.
+The final bar chart proves that another drug, Ramicane, should be further tested and analyzed as intital percentage change in volume of tumor testing shows it may be effective. 
